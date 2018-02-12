@@ -1,0 +1,5704 @@
+{
+    "samples": [
+        {
+            "timestamp": "2018-02-07T17:26:31.803979", 
+            "temperature": 18.8, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-07T17:31:32.139145", 
+            "temperature": 19.2, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-07T17:36:32.422447", 
+            "temperature": 19.4, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-07T17:41:32.555958", 
+            "temperature": 19.6, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-07T17:46:32.688535", 
+            "temperature": 19.9, 
+            "humidity": 24.7
+        }, 
+        {
+            "timestamp": "2018-02-07T17:51:32.948072", 
+            "temperature": 19.9, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-07T17:56:33.282409", 
+            "temperature": 20.2, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-07T18:01:33.540875", 
+            "temperature": 20.4, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-07T18:06:33.874683", 
+            "temperature": 20.5, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-07T18:11:34.209006", 
+            "temperature": 20.7, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-07T18:16:34.541368", 
+            "temperature": 20.8, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-07T18:21:34.746455", 
+            "temperature": 21.0, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-07T18:45:20.093434", 
+            "temperature": 21.6, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T18:50:20.329482", 
+            "temperature": 21.7, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T18:55:20.664610", 
+            "temperature": 21.9, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:00:21.096160", 
+            "temperature": 22.0, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:05:21.430441", 
+            "temperature": 22.0, 
+            "humidity": 26.1
+        }, 
+        {
+            "timestamp": "2018-02-07T19:10:21.586447", 
+            "temperature": 21.8, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:15:21.848734", 
+            "temperature": 22.0, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:20:22.210826", 
+            "temperature": 22.3, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:25:22.392725", 
+            "temperature": 22.3, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-07T19:30:22.626940", 
+            "temperature": 22.2, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-07T19:35:22.962329", 
+            "temperature": 22.0, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-07T19:40:23.144094", 
+            "temperature": 21.8, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-07T19:45:23.353785", 
+            "temperature": 21.9, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-07T19:50:23.514384", 
+            "temperature": 21.9, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-07T19:55:23.772130", 
+            "temperature": 22.0, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-07T20:00:24.055869", 
+            "temperature": 22.0, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-07T20:24:08.372755", 
+            "temperature": 22.1, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-07T20:29:08.656443", 
+            "temperature": 22.0, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-07T20:34:08.890825", 
+            "temperature": 22.0, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-07T20:39:09.176184", 
+            "temperature": 22.0, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-07T20:44:09.509730", 
+            "temperature": 22.0, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-07T20:49:09.794969", 
+            "temperature": 21.9, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-07T20:54:09.902098", 
+            "temperature": 21.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-07T20:59:10.136751", 
+            "temperature": 21.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-07T21:04:10.469621", 
+            "temperature": 21.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-07T21:09:10.805171", 
+            "temperature": 21.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-07T21:14:11.138149", 
+            "temperature": 21.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-07T21:19:11.271656", 
+            "temperature": 21.9, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-07T21:24:11.556602", 
+            "temperature": 21.8, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-07T21:29:11.838247", 
+            "temperature": 21.9, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-07T21:34:12.097504", 
+            "temperature": 22.0, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-07T21:39:12.206078", 
+            "temperature": 21.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-07T22:02:56.525847", 
+            "temperature": 21.9, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-07T22:07:56.684671", 
+            "temperature": 21.8, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-07T22:12:56.844589", 
+            "temperature": 21.9, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-07T22:17:56.952603", 
+            "temperature": 21.7, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-07T22:22:57.136934", 
+            "temperature": 21.8, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-07T22:27:57.296191", 
+            "temperature": 21.8, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-07T22:32:58.517536", 
+            "temperature": 21.8, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-07T22:37:58.714693", 
+            "temperature": 21.6, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-07T22:42:59.098702", 
+            "temperature": 21.7, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-07T22:47:59.282058", 
+            "temperature": 21.8, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T22:52:59.492632", 
+            "temperature": 21.9, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T22:57:59.775957", 
+            "temperature": 21.9, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T23:02:59.885380", 
+            "temperature": 22.0, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T23:08:00.218832", 
+            "temperature": 21.9, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T23:13:00.502661", 
+            "temperature": 21.8, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T23:18:00.637451", 
+            "temperature": 21.8, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-07T23:41:44.570805", 
+            "temperature": 22.1, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-07T23:46:44.879726", 
+            "temperature": 22.0, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-07T23:51:45.213319", 
+            "temperature": 22.1, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-07T23:56:45.571910", 
+            "temperature": 21.8, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-08T00:01:45.780089", 
+            "temperature": 21.6, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T00:06:45.920287", 
+            "temperature": 21.5, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T00:11:46.023546", 
+            "temperature": 21.3, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-08T00:35:27.637726", 
+            "temperature": 20.8, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T00:40:27.971152", 
+            "temperature": 20.6, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T00:45:28.106176", 
+            "temperature": 20.5, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T00:50:28.319736", 
+            "temperature": 20.3, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-08T00:55:28.524542", 
+            "temperature": 20.2, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T01:00:28.759102", 
+            "temperature": 20.2, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T01:05:28.941681", 
+            "temperature": 20.0, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T01:10:29.175659", 
+            "temperature": 19.9, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T01:15:29.510863", 
+            "temperature": 19.8, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T01:20:29.768273", 
+            "temperature": 19.7, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:25:29.952331", 
+            "temperature": 19.6, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:30:30.236045", 
+            "temperature": 19.4, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:35:30.569486", 
+            "temperature": 19.3, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:40:30.803623", 
+            "temperature": 19.2, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:45:30.938173", 
+            "temperature": 19.0, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T01:50:31.289194", 
+            "temperature": 18.9, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T02:14:13.659063", 
+            "temperature": 18.3, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T02:19:13.819379", 
+            "temperature": 18.1, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T02:24:14.001064", 
+            "temperature": 18.0, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T02:29:14.283725", 
+            "temperature": 17.7, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T02:34:14.543705", 
+            "temperature": 17.8, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T02:39:14.826335", 
+            "temperature": 17.8, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T02:44:14.934822", 
+            "temperature": 17.5, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T02:49:15.320341", 
+            "temperature": 17.5, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T02:54:15.601700", 
+            "temperature": 17.3, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T02:59:15.935977", 
+            "temperature": 17.3, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T03:04:16.245389", 
+            "temperature": 17.0, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T03:09:16.454771", 
+            "temperature": 17.3, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T03:14:16.593801", 
+            "temperature": 17.4, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T03:19:16.794115", 
+            "temperature": 17.4, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T03:24:17.077373", 
+            "temperature": 17.4, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T03:29:17.309613", 
+            "temperature": 17.2, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T03:53:01.853184", 
+            "temperature": 17.2, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T03:58:02.085847", 
+            "temperature": 17.1, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:03:02.293849", 
+            "temperature": 17.1, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T04:08:02.404606", 
+            "temperature": 17.0, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T04:13:02.563493", 
+            "temperature": 17.0, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T04:18:02.770862", 
+            "temperature": 16.9, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:23:02.978253", 
+            "temperature": 16.8, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:28:03.212304", 
+            "temperature": 16.9, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:33:03.521588", 
+            "temperature": 16.8, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:38:03.630034", 
+            "temperature": 16.8, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:43:03.863461", 
+            "temperature": 16.8, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:48:04.097723", 
+            "temperature": 16.9, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T04:53:04.256554", 
+            "temperature": 16.6, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T04:58:04.463064", 
+            "temperature": 16.8, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:03:04.622717", 
+            "temperature": 16.8, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:08:04.808209", 
+            "temperature": 16.9, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:31:49.954655", 
+            "temperature": 16.8, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:36:50.111479", 
+            "temperature": 16.7, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:41:50.322131", 
+            "temperature": 16.7, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:46:50.479835", 
+            "temperature": 16.7, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-08T05:51:50.813960", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T05:56:50.947318", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:01:51.280493", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:06:51.666804", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:11:51.877357", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:16:52.183675", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:21:52.516315", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:26:52.810531", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:31:53.136337", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:36:53.266705", 
+            "temperature": 16.6, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:41:53.600040", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:46:53.887362", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:51:54.093803", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T06:56:54.303232", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:01:54.562713", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:06:54.795056", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:11:55.017172", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:16:55.363200", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:21:55.597023", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:26:55.906163", 
+            "temperature": 16.5, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:31:57.117343", 
+            "temperature": 16.4, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:36:57.423766", 
+            "temperature": 16.4, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-08T07:41:57.682131", 
+            "temperature": 16.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T07:46:57.940609", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T07:51:58.148540", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T07:56:58.413963", 
+            "temperature": 16.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T08:01:58.664994", 
+            "temperature": 16.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T08:06:59.001827", 
+            "temperature": 16.5, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T08:11:59.257882", 
+            "temperature": 16.5, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T08:16:59.416588", 
+            "temperature": 16.6, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T08:40:43.222400", 
+            "temperature": 16.5, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T08:45:43.381302", 
+            "temperature": 16.5, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T08:50:43.588409", 
+            "temperature": 16.4, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T08:55:43.797797", 
+            "temperature": 16.4, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T09:00:44.007183", 
+            "temperature": 16.4, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T09:05:44.216037", 
+            "temperature": 16.4, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T09:10:44.377551", 
+            "temperature": 16.4, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T09:34:29.169251", 
+            "temperature": 16.6, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T09:39:29.425092", 
+            "temperature": 16.6, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T09:44:29.759597", 
+            "temperature": 16.6, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T09:49:30.068139", 
+            "temperature": 16.6, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T09:54:30.278242", 
+            "temperature": 16.6, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T09:59:30.512047", 
+            "temperature": 16.6, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T10:04:30.619868", 
+            "temperature": 16.5, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T10:09:30.929847", 
+            "temperature": 16.7, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T10:14:31.178070", 
+            "temperature": 16.6, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-08T10:19:31.330442", 
+            "temperature": 16.7, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T10:24:31.455832", 
+            "temperature": 16.7, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T10:29:31.564788", 
+            "temperature": 16.7, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T10:34:31.773471", 
+            "temperature": 16.7, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T10:39:32.057608", 
+            "temperature": 16.7, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T10:44:32.366262", 
+            "temperature": 16.8, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T10:49:32.700750", 
+            "temperature": 16.8, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T11:13:17.197430", 
+            "temperature": 17.0, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-08T11:18:17.306371", 
+            "temperature": 17.0, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-08T11:23:17.589654", 
+            "temperature": 17.0, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-08T11:28:17.797621", 
+            "temperature": 17.1, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T11:33:18.082667", 
+            "temperature": 17.1, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T11:38:18.267908", 
+            "temperature": 17.1, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T11:43:18.601419", 
+            "temperature": 17.2, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T11:48:18.907998", 
+            "temperature": 17.2, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-08T11:53:19.043553", 
+            "temperature": 17.2, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-08T11:58:19.226825", 
+            "temperature": 17.2, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-08T12:03:19.460387", 
+            "temperature": 17.4, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-08T12:08:19.571643", 
+            "temperature": 17.3, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-08T12:13:19.753688", 
+            "temperature": 17.3, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-08T12:18:20.013847", 
+            "temperature": 17.3, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-08T12:23:20.297655", 
+            "temperature": 17.4, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-08T12:28:20.480142", 
+            "temperature": 17.4, 
+            "humidity": 23.3
+        }, 
+        {
+            "timestamp": "2018-02-08T12:52:06.969868", 
+            "temperature": 17.6, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-08T12:57:07.276788", 
+            "temperature": 17.7, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-08T13:02:07.486066", 
+            "temperature": 17.7, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:07:07.596274", 
+            "temperature": 17.7, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:12:07.779893", 
+            "temperature": 17.7, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:17:07.962245", 
+            "temperature": 17.8, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:22:08.296090", 
+            "temperature": 17.8, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:27:08.729616", 
+            "temperature": 17.9, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:32:08.939391", 
+            "temperature": 17.8, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:37:09.222947", 
+            "temperature": 18.0, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T13:42:09.508720", 
+            "temperature": 17.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T13:47:09.764994", 
+            "temperature": 17.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T13:52:10.098937", 
+            "temperature": 17.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T13:57:10.409420", 
+            "temperature": 17.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-08T14:02:10.542792", 
+            "temperature": 17.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-08T14:07:10.851797", 
+            "temperature": 17.9, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T14:30:53.747265", 
+            "temperature": 17.8, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T14:35:54.005780", 
+            "temperature": 17.8, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T14:40:54.289530", 
+            "temperature": 17.8, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T14:45:54.472907", 
+            "temperature": 17.8, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T14:50:54.659355", 
+            "temperature": 17.8, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T14:55:54.891936", 
+            "temperature": 17.8, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T15:00:55.100114", 
+            "temperature": 17.8, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T15:24:39.818889", 
+            "temperature": 17.8, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T15:29:40.152236", 
+            "temperature": 17.8, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T15:34:40.311043", 
+            "temperature": 17.8, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T15:39:40.467443", 
+            "temperature": 17.8, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T15:44:40.626882", 
+            "temperature": 17.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T15:49:40.760263", 
+            "temperature": 17.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T15:54:40.992263", 
+            "temperature": 17.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T15:59:41.327083", 
+            "temperature": 17.6, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-08T16:04:41.511123", 
+            "temperature": 17.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:09:41.745339", 
+            "temperature": 17.6, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:14:42.027884", 
+            "temperature": 17.6, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:19:42.187917", 
+            "temperature": 17.6, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:24:42.326094", 
+            "temperature": 17.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:29:42.656993", 
+            "temperature": 17.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:34:42.913438", 
+            "temperature": 17.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T16:39:43.023067", 
+            "temperature": 17.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-08T17:03:27.830684", 
+            "temperature": 17.3, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:08:28.015938", 
+            "temperature": 17.3, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:13:28.346981", 
+            "temperature": 17.2, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:18:28.557225", 
+            "temperature": 17.2, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:23:28.840537", 
+            "temperature": 17.1, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:28:29.150186", 
+            "temperature": 17.1, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:33:29.433887", 
+            "temperature": 17.1, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:38:29.666423", 
+            "temperature": 17.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:43:29.928007", 
+            "temperature": 17.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:48:30.232817", 
+            "temperature": 17.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:53:30.492886", 
+            "temperature": 17.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T17:58:30.801792", 
+            "temperature": 17.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T18:03:30.961422", 
+            "temperature": 16.9, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T18:08:31.243501", 
+            "temperature": 16.9, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-08T18:13:31.376690", 
+            "temperature": 16.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T18:18:31.636320", 
+            "temperature": 16.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T18:42:15.982257", 
+            "temperature": 16.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T18:47:16.261243", 
+            "temperature": 16.8, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-08T18:52:16.395205", 
+            "temperature": 16.8, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T18:57:16.652755", 
+            "temperature": 16.8, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T19:02:16.840548", 
+            "temperature": 16.7, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T19:07:17.123077", 
+            "temperature": 16.7, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T19:12:17.231863", 
+            "temperature": 16.7, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-08T19:17:17.539721", 
+            "temperature": 16.5, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:22:17.801237", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:27:18.007890", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:32:18.317960", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:37:18.600731", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:42:18.935819", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:47:19.169187", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:52:19.428156", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T19:57:19.612529", 
+            "temperature": 16.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-08T20:21:04.154293", 
+            "temperature": 16.7, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-08T20:26:04.487052", 
+            "temperature": 16.7, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T20:31:04.703490", 
+            "temperature": 16.7, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T20:36:04.978684", 
+            "temperature": 16.6, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T20:41:05.138239", 
+            "temperature": 16.7, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T20:46:05.351413", 
+            "temperature": 16.6, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T20:51:05.706982", 
+            "temperature": 16.7, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-08T21:14:50.188228", 
+            "temperature": 16.7, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:19:50.426276", 
+            "temperature": 16.6, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:24:50.755401", 
+            "temperature": 16.6, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:29:50.890656", 
+            "temperature": 16.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:34:51.175274", 
+            "temperature": 16.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:39:51.483218", 
+            "temperature": 16.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:44:51.767277", 
+            "temperature": 16.4, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:49:52.152019", 
+            "temperature": 16.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:54:52.358908", 
+            "temperature": 16.7, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-08T21:59:52.493175", 
+            "temperature": 17.0, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-08T22:04:52.802766", 
+            "temperature": 17.3, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-08T22:09:53.086033", 
+            "temperature": 17.5, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-08T22:14:53.245334", 
+            "temperature": 17.8, 
+            "humidity": 23.2
+        }, 
+        {
+            "timestamp": "2018-02-08T22:19:53.403549", 
+            "temperature": 18.0, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-08T22:24:53.511333", 
+            "temperature": 18.2, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-08T22:29:53.621208", 
+            "temperature": 18.3, 
+            "humidity": 23.0
+        }, 
+        {
+            "timestamp": "2018-02-08T22:53:38.306706", 
+            "temperature": 19.0, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-08T22:58:38.415844", 
+            "temperature": 19.3, 
+            "humidity": 23.1
+        }, 
+        {
+            "timestamp": "2018-02-08T23:03:38.552333", 
+            "temperature": 19.5, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-08T23:08:38.734441", 
+            "temperature": 19.8, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-08T23:13:38.868834", 
+            "temperature": 19.9, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-08T23:18:39.228008", 
+            "temperature": 19.9, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-08T23:23:39.411468", 
+            "temperature": 19.9, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-08T23:28:39.673345", 
+            "temperature": 20.0, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-08T23:33:39.805374", 
+            "temperature": 20.1, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T23:38:39.988998", 
+            "temperature": 20.1, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T23:43:40.222708", 
+            "temperature": 20.2, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-08T23:48:40.506726", 
+            "temperature": 20.2, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T23:53:40.713745", 
+            "temperature": 20.2, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-08T23:58:40.972854", 
+            "temperature": 20.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T00:03:41.309308", 
+            "temperature": 20.3, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T00:08:41.616761", 
+            "temperature": 20.2, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T00:32:26.436900", 
+            "temperature": 19.7, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-09T00:37:26.695717", 
+            "temperature": 19.6, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-09T00:42:26.929731", 
+            "temperature": 19.4, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T00:47:27.064249", 
+            "temperature": 19.4, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T00:52:27.302489", 
+            "temperature": 19.2, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T00:57:27.478133", 
+            "temperature": 19.0, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T01:02:27.764056", 
+            "temperature": 18.9, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-09T01:07:27.970994", 
+            "temperature": 18.9, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-09T01:12:28.256737", 
+            "temperature": 18.8, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-09T01:17:28.540268", 
+            "temperature": 18.7, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-09T01:22:28.723964", 
+            "temperature": 18.5, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-09T01:27:28.981911", 
+            "temperature": 18.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T01:32:29.239808", 
+            "temperature": 18.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T01:37:29.505565", 
+            "temperature": 18.2, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T01:42:29.659833", 
+            "temperature": 18.0, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T01:47:29.929668", 
+            "temperature": 17.9, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T02:11:15.608658", 
+            "temperature": 17.4, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T02:16:15.768004", 
+            "temperature": 17.3, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T02:21:16.050320", 
+            "temperature": 17.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T02:26:16.286689", 
+            "temperature": 17.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T02:31:16.419691", 
+            "temperature": 17.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T02:36:16.605333", 
+            "temperature": 17.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T02:41:16.787921", 
+            "temperature": 17.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T03:05:01.509283", 
+            "temperature": 17.5, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T03:10:01.691615", 
+            "temperature": 17.4, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T03:15:01.853910", 
+            "temperature": 17.2, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T03:20:02.160074", 
+            "temperature": 17.3, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T03:25:02.419198", 
+            "temperature": 17.2, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T03:30:02.576537", 
+            "temperature": 17.1, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T03:35:02.820407", 
+            "temperature": 17.1, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T03:40:03.133839", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T03:45:03.472899", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T03:50:03.809530", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T03:55:04.092314", 
+            "temperature": 17.1, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:00:04.425628", 
+            "temperature": 17.1, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:05:04.636707", 
+            "temperature": 17.1, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:10:04.821667", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:15:05.054621", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:20:05.313195", 
+            "temperature": 17.4, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T04:43:48.800687", 
+            "temperature": 17.1, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T04:48:49.149431", 
+            "temperature": 17.1, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T04:53:49.376670", 
+            "temperature": 17.0, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T04:58:49.718492", 
+            "temperature": 17.0, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T05:03:50.068155", 
+            "temperature": 16.9, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T05:08:50.178189", 
+            "temperature": 16.9, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T05:13:50.487761", 
+            "temperature": 17.0, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T05:18:50.819156", 
+            "temperature": 17.0, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T05:23:51.078163", 
+            "temperature": 17.0, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T05:28:51.287185", 
+            "temperature": 17.0, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T05:33:51.421103", 
+            "temperature": 16.8, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T05:38:51.656351", 
+            "temperature": 17.0, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T05:43:52.014262", 
+            "temperature": 17.0, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T05:48:52.173156", 
+            "temperature": 17.0, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T05:53:52.478331", 
+            "temperature": 17.0, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T05:58:52.691003", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T06:22:36.866793", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T06:27:37.047927", 
+            "temperature": 16.9, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T06:32:37.183089", 
+            "temperature": 16.9, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T06:37:37.320423", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T06:42:37.648618", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T06:47:37.882298", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T06:52:38.093150", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T06:57:38.476669", 
+            "temperature": 16.9, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T07:02:38.635884", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T07:07:38.781723", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T07:12:39.132021", 
+            "temperature": 16.7, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T07:17:39.408441", 
+            "temperature": 16.7, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T07:22:39.596257", 
+            "temperature": 16.8, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T07:27:39.829071", 
+            "temperature": 16.9, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T07:32:40.088268", 
+            "temperature": 17.1, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T07:37:40.445768", 
+            "temperature": 17.1, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T08:01:24.261520", 
+            "temperature": 17.0, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T08:06:24.596036", 
+            "temperature": 16.9, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T08:11:24.830082", 
+            "temperature": 16.8, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T08:16:25.112836", 
+            "temperature": 16.7, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T08:21:25.295877", 
+            "temperature": 16.7, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T08:26:25.578583", 
+            "temperature": 16.7, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T08:31:25.863372", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T08:55:10.908377", 
+            "temperature": 17.0, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T09:00:11.217658", 
+            "temperature": 17.0, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T09:05:11.376517", 
+            "temperature": 16.8, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T09:10:11.660090", 
+            "temperature": 17.0, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T09:15:11.892229", 
+            "temperature": 17.0, 
+            "humidity": 21.1
+        }, 
+        {
+            "timestamp": "2018-02-09T09:20:12.126686", 
+            "temperature": 17.0, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:25:12.310332", 
+            "temperature": 17.0, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:30:12.644420", 
+            "temperature": 17.0, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:35:13.001703", 
+            "temperature": 17.0, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:40:13.135771", 
+            "temperature": 16.9, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:45:13.246436", 
+            "temperature": 16.9, 
+            "humidity": 21.2
+        }, 
+        {
+            "timestamp": "2018-02-09T09:50:13.554365", 
+            "temperature": 16.9, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T09:55:13.814042", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:00:14.148133", 
+            "temperature": 16.8, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:05:14.333117", 
+            "temperature": 16.9, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:10:14.565648", 
+            "temperature": 16.9, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:34:01.313669", 
+            "temperature": 17.0, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:39:01.599514", 
+            "temperature": 17.2, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:44:01.754268", 
+            "temperature": 17.2, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:49:02.064092", 
+            "temperature": 17.2, 
+            "humidity": 21.3
+        }, 
+        {
+            "timestamp": "2018-02-09T10:54:02.347323", 
+            "temperature": 17.2, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T10:59:02.631924", 
+            "temperature": 17.2, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T11:04:02.739819", 
+            "temperature": 17.3, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T11:09:03.149740", 
+            "temperature": 17.1, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-09T11:14:03.432783", 
+            "temperature": 17.5, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T11:19:03.592394", 
+            "temperature": 17.3, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T11:24:03.775438", 
+            "temperature": 17.4, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T11:29:04.031300", 
+            "temperature": 17.4, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-09T11:34:04.140250", 
+            "temperature": 17.5, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-09T11:39:04.325106", 
+            "temperature": 17.5, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-09T11:44:04.433554", 
+            "temperature": 17.5, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-09T11:49:04.744483", 
+            "temperature": 17.6, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-09T12:12:47.181399", 
+            "temperature": 17.6, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T12:17:47.513124", 
+            "temperature": 17.8, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T12:22:47.696511", 
+            "temperature": 17.8, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-09T12:27:47.905263", 
+            "temperature": 17.9, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T12:32:48.117227", 
+            "temperature": 17.9, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T12:37:48.427038", 
+            "temperature": 17.9, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T12:42:48.706511", 
+            "temperature": 17.9, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-09T12:47:48.966036", 
+            "temperature": 17.9, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T12:52:49.247655", 
+            "temperature": 17.9, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T12:57:49.475560", 
+            "temperature": 18.0, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-09T13:02:49.817925", 
+            "temperature": 18.0, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T13:07:49.975554", 
+            "temperature": 18.1, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-09T13:12:50.206476", 
+            "temperature": 18.1, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-09T13:17:50.366660", 
+            "temperature": 18.1, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-09T13:22:50.648873", 
+            "temperature": 18.0, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-09T13:27:50.932615", 
+            "temperature": 18.1, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-09T13:51:35.354705", 
+            "temperature": 18.3, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-09T13:56:35.640356", 
+            "temperature": 18.2, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-09T14:01:35.825154", 
+            "temperature": 18.4, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T14:06:36.165360", 
+            "temperature": 18.3, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-09T14:11:36.415621", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T14:16:36.752911", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T14:21:37.106558", 
+            "temperature": 18.1, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T14:45:23.523863", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T14:50:23.680848", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T14:55:23.917404", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T15:00:24.224902", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T15:05:24.456288", 
+            "temperature": 18.3, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T15:10:24.816060", 
+            "temperature": 18.2, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T15:15:25.025037", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:20:25.156989", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:25:25.470551", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:30:25.751927", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:35:25.890211", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:40:26.096041", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:45:26.306249", 
+            "temperature": 18.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:50:26.587110", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T15:55:26.933260", 
+            "temperature": 18.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:00:27.246154", 
+            "temperature": 18.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:24:09.391170", 
+            "temperature": 18.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:29:09.751892", 
+            "temperature": 18.0, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:34:10.109339", 
+            "temperature": 17.9, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:39:10.492799", 
+            "temperature": 17.9, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:44:10.775982", 
+            "temperature": 17.9, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:49:11.504334", 
+            "temperature": 17.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:54:11.693845", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T16:59:11.928261", 
+            "temperature": 17.7, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:04:12.211861", 
+            "temperature": 17.7, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:09:12.473161", 
+            "temperature": 17.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:14:12.727814", 
+            "temperature": 17.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:19:13.062754", 
+            "temperature": 17.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:24:13.245621", 
+            "temperature": 17.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T17:29:13.533151", 
+            "temperature": 17.6, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T17:34:13.837064", 
+            "temperature": 17.8, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T17:39:14.247328", 
+            "temperature": 17.8, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T18:02:59.907841", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T18:08:00.166822", 
+            "temperature": 17.5, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T18:13:00.473480", 
+            "temperature": 17.4, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:18:00.734119", 
+            "temperature": 17.5, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:23:01.021637", 
+            "temperature": 17.3, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:28:01.278150", 
+            "temperature": 17.3, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:33:01.564428", 
+            "temperature": 17.4, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:38:01.923757", 
+            "temperature": 17.5, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:43:02.060120", 
+            "temperature": 17.5, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T18:48:02.364954", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T18:53:02.699263", 
+            "temperature": 17.5, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T18:58:02.833898", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T19:03:02.990675", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T19:08:03.273678", 
+            "temperature": 17.5, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T19:13:03.582995", 
+            "temperature": 17.2, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T19:18:03.792561", 
+            "temperature": 17.3, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T19:41:48.151506", 
+            "temperature": 17.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T19:46:48.408710", 
+            "temperature": 17.1, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T19:51:48.766544", 
+            "temperature": 17.2, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-09T19:56:48.979815", 
+            "temperature": 17.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T20:01:49.211242", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-09T20:06:49.493966", 
+            "temperature": 18.0, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-09T20:11:49.752865", 
+            "temperature": 18.3, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-09T20:35:31.667776", 
+            "temperature": 19.5, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-09T20:40:31.875958", 
+            "temperature": 19.4, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-09T20:45:32.211237", 
+            "temperature": 19.5, 
+            "humidity": 23.4
+        }, 
+        {
+            "timestamp": "2018-02-09T20:50:32.348839", 
+            "temperature": 19.6, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-09T20:55:32.584347", 
+            "temperature": 19.8, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-09T21:00:32.836265", 
+            "temperature": 19.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-09T21:05:33.196733", 
+            "temperature": 20.0, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-09T21:10:33.503688", 
+            "temperature": 20.2, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-09T21:15:33.734978", 
+            "temperature": 20.2, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-09T21:20:33.945424", 
+            "temperature": 20.5, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T21:25:34.153906", 
+            "temperature": 20.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T21:30:34.292012", 
+            "temperature": 20.7, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T21:35:34.721078", 
+            "temperature": 20.8, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T21:40:34.959753", 
+            "temperature": 20.8, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T21:45:35.239942", 
+            "temperature": 20.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T21:50:35.523531", 
+            "temperature": 20.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T22:14:20.762278", 
+            "temperature": 21.4, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T22:19:20.946785", 
+            "temperature": 21.5, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T22:24:21.281988", 
+            "temperature": 21.5, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:29:21.417049", 
+            "temperature": 21.4, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:34:21.598421", 
+            "temperature": 21.5, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:39:21.965191", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:44:22.116968", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:49:22.476413", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:54:22.660170", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T22:59:22.793576", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T23:04:22.978170", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T23:09:23.164100", 
+            "temperature": 21.6, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T23:14:23.453484", 
+            "temperature": 21.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T23:19:23.629054", 
+            "temperature": 21.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T23:24:23.963761", 
+            "temperature": 21.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T23:29:24.226101", 
+            "temperature": 21.6, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-09T23:53:08.207882", 
+            "temperature": 21.9, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-09T23:58:08.464725", 
+            "temperature": 21.8, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T00:03:08.700609", 
+            "temperature": 21.9, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T00:08:08.936346", 
+            "temperature": 21.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-10T00:13:09.195320", 
+            "temperature": 21.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-10T00:18:09.454098", 
+            "temperature": 21.9, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T00:23:09.738856", 
+            "temperature": 21.9, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T00:28:10.045298", 
+            "temperature": 21.9, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T00:33:10.204781", 
+            "temperature": 21.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T00:38:10.437213", 
+            "temperature": 21.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T00:43:10.647700", 
+            "temperature": 21.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T00:48:10.994586", 
+            "temperature": 21.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T00:53:11.213107", 
+            "temperature": 21.8, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T00:58:11.397565", 
+            "temperature": 21.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T01:03:11.531774", 
+            "temperature": 21.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T01:08:11.739793", 
+            "temperature": 21.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T01:31:54.529963", 
+            "temperature": 21.5, 
+            "humidity": 22.9
+        }, 
+        {
+            "timestamp": "2018-02-10T01:36:54.865266", 
+            "temperature": 21.3, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-10T01:41:55.100948", 
+            "temperature": 21.1, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-10T01:46:55.311358", 
+            "temperature": 21.0, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-10T01:51:55.570832", 
+            "temperature": 20.9, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-10T01:56:55.757591", 
+            "temperature": 20.9, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T02:01:55.966976", 
+            "temperature": 20.9, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-10T02:06:56.202394", 
+            "temperature": 20.8, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-10T02:11:56.559741", 
+            "temperature": 20.7, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-10T02:16:56.943271", 
+            "temperature": 20.5, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T02:21:57.250124", 
+            "temperature": 20.3, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-10T02:26:57.447844", 
+            "temperature": 20.2, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-10T02:31:57.590507", 
+            "temperature": 20.0, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T02:36:57.777057", 
+            "temperature": 20.0, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T02:41:58.035627", 
+            "temperature": 19.9, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T02:46:58.320722", 
+            "temperature": 19.8, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T03:10:41.527549", 
+            "temperature": 19.1, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T03:15:41.790777", 
+            "temperature": 19.1, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T03:20:42.096911", 
+            "temperature": 19.0, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T03:25:42.256646", 
+            "temperature": 18.9, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T03:30:42.539267", 
+            "temperature": 18.8, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T03:35:42.847878", 
+            "temperature": 18.6, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T03:40:43.056771", 
+            "temperature": 18.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T04:04:25.234379", 
+            "temperature": 18.1, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T04:09:25.591845", 
+            "temperature": 18.0, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T04:14:25.725933", 
+            "temperature": 17.9, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T04:19:25.884854", 
+            "temperature": 17.8, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:24:26.068816", 
+            "temperature": 17.7, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:29:26.305463", 
+            "temperature": 17.7, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:34:26.612918", 
+            "temperature": 17.6, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:39:27.019527", 
+            "temperature": 17.6, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:44:27.294536", 
+            "temperature": 17.4, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T04:49:27.461821", 
+            "temperature": 17.4, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T04:54:27.744949", 
+            "temperature": 17.3, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T04:59:28.055724", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:04:28.363903", 
+            "temperature": 17.2, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:09:28.597224", 
+            "temperature": 17.1, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:14:28.733107", 
+            "temperature": 17.0, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:19:28.891247", 
+            "temperature": 17.0, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:43:13.367718", 
+            "temperature": 16.8, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:48:13.600176", 
+            "temperature": 16.9, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:53:13.862189", 
+            "temperature": 16.9, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T05:58:14.168767", 
+            "temperature": 16.9, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T06:03:14.504573", 
+            "temperature": 16.9, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-10T06:08:14.867194", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-10T06:13:15.219482", 
+            "temperature": 16.9, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-10T06:18:15.628197", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-10T06:23:15.961029", 
+            "temperature": 16.8, 
+            "humidity": 21.4
+        }, 
+        {
+            "timestamp": "2018-02-10T06:28:16.243168", 
+            "temperature": 16.7, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T06:33:16.405158", 
+            "temperature": 16.7, 
+            "humidity": 21.5
+        }, 
+        {
+            "timestamp": "2018-02-10T06:38:16.764795", 
+            "temperature": 16.6, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T06:43:16.897255", 
+            "temperature": 16.6, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T06:48:17.037985", 
+            "temperature": 16.5, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T06:53:17.290304", 
+            "temperature": 16.3, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T06:58:17.423481", 
+            "temperature": 16.5, 
+            "humidity": 21.6
+        }, 
+        {
+            "timestamp": "2018-02-10T07:22:01.115391", 
+            "temperature": 16.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T07:27:01.424669", 
+            "temperature": 16.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T07:32:01.786053", 
+            "temperature": 16.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T07:37:02.041760", 
+            "temperature": 16.5, 
+            "humidity": 21.7
+        }, 
+        {
+            "timestamp": "2018-02-10T07:42:02.402028", 
+            "temperature": 16.5, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T07:47:02.748030", 
+            "temperature": 16.5, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T07:52:02.968884", 
+            "temperature": 16.5, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T07:57:03.203172", 
+            "temperature": 16.5, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:02:03.387693", 
+            "temperature": 16.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:07:03.645760", 
+            "temperature": 16.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:12:03.930453", 
+            "temperature": 16.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:17:04.162640", 
+            "temperature": 16.4, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:22:04.321846", 
+            "temperature": 16.1, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:27:04.629355", 
+            "temperature": 16.3, 
+            "humidity": 21.8
+        }, 
+        {
+            "timestamp": "2018-02-10T08:32:04.914079", 
+            "temperature": 16.3, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-10T08:37:05.057859", 
+            "temperature": 16.3, 
+            "humidity": 21.9
+        }, 
+        {
+            "timestamp": "2018-02-10T09:00:49.652383", 
+            "temperature": 16.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:05:49.959557", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:10:50.149491", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:15:50.379156", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:20:50.562997", 
+            "temperature": 16.4, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:25:50.700310", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:30:50.855994", 
+            "temperature": 16.3, 
+            "humidity": 22.0
+        }, 
+        {
+            "timestamp": "2018-02-10T09:54:35.583492", 
+            "temperature": 16.3, 
+            "humidity": 22.1
+        }, 
+        {
+            "timestamp": "2018-02-10T09:59:35.941123", 
+            "temperature": 16.2, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T10:04:36.201887", 
+            "temperature": 16.2, 
+            "humidity": 22.2
+        }, 
+        {
+            "timestamp": "2018-02-10T10:09:36.461987", 
+            "temperature": 15.9, 
+            "humidity": 22.3
+        }, 
+        {
+            "timestamp": "2018-02-10T10:14:36.643825", 
+            "temperature": 15.9, 
+            "humidity": 22.4
+        }, 
+        {
+            "timestamp": "2018-02-10T10:19:36.875438", 
+            "temperature": 16.0, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-10T10:24:37.008854", 
+            "temperature": 16.0, 
+            "humidity": 22.5
+        }, 
+        {
+            "timestamp": "2018-02-10T10:29:37.218143", 
+            "temperature": 16.1, 
+            "humidity": 22.6
+        }, 
+        {
+            "timestamp": "2018-02-10T10:34:37.350904", 
+            "temperature": 16.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T10:39:37.486092", 
+            "temperature": 16.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T10:44:37.743773", 
+            "temperature": 16.1, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T10:49:37.927452", 
+            "temperature": 16.2, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T10:54:38.111708", 
+            "temperature": 16.8, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T10:59:38.447135", 
+            "temperature": 17.3, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T11:04:38.607777", 
+            "temperature": 17.6, 
+            "humidity": 22.7
+        }, 
+        {
+            "timestamp": "2018-02-10T11:09:38.965363", 
+            "temperature": 18.0, 
+            "humidity": 22.8
+        }, 
+        {
+            "timestamp": "2018-02-10T11:33:23.853676", 
+            "temperature": 19.2, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T11:38:24.161742", 
+            "temperature": 19.3, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T11:43:24.346401", 
+            "temperature": 19.5, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T11:48:24.705870", 
+            "temperature": 19.7, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T11:53:24.988267", 
+            "temperature": 19.7, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-10T11:58:25.120962", 
+            "temperature": 20.0, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T12:03:25.258389", 
+            "temperature": 20.2, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T12:08:25.516534", 
+            "temperature": 20.4, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T12:13:25.823830", 
+            "temperature": 20.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T12:18:25.956540", 
+            "temperature": 20.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T12:23:26.189631", 
+            "temperature": 20.8, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T12:28:26.474432", 
+            "temperature": 21.0, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T12:33:26.757759", 
+            "temperature": 21.1, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T12:38:27.017538", 
+            "temperature": 21.2, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T12:43:27.156686", 
+            "temperature": 21.3, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T12:48:27.410649", 
+            "temperature": 21.4, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T13:12:11.928836", 
+            "temperature": 21.6, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T13:17:12.215485", 
+            "temperature": 21.6, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T13:22:12.399151", 
+            "temperature": 21.3, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T13:27:12.655761", 
+            "temperature": 21.3, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T13:32:12.865227", 
+            "temperature": 21.6, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T13:37:13.074877", 
+            "temperature": 21.6, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T13:42:13.356802", 
+            "temperature": 21.5, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T13:47:13.589885", 
+            "temperature": 21.4, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T13:52:13.774813", 
+            "temperature": 21.4, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T13:57:14.061350", 
+            "temperature": 21.4, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T14:02:14.366508", 
+            "temperature": 21.2, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T14:07:14.651858", 
+            "temperature": 21.2, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T14:12:14.785768", 
+            "temperature": 21.1, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T14:17:15.093573", 
+            "temperature": 21.0, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T14:22:15.306370", 
+            "temperature": 21.0, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T14:27:15.662307", 
+            "temperature": 21.0, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T14:51:00.088106", 
+            "temperature": 21.1, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T14:56:00.377343", 
+            "temperature": 21.0, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T15:01:00.679884", 
+            "temperature": 21.0, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T15:06:00.964216", 
+            "temperature": 21.1, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T15:11:01.223495", 
+            "temperature": 21.1, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T15:16:01.470240", 
+            "temperature": 21.0, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T15:21:01.818716", 
+            "temperature": 21.0, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T15:44:46.051371", 
+            "temperature": 21.1, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T15:49:46.212812", 
+            "temperature": 21.4, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-10T15:54:46.346261", 
+            "temperature": 21.2, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-10T15:59:46.705423", 
+            "temperature": 21.4, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T16:04:46.989130", 
+            "temperature": 21.6, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-10T16:09:47.298270", 
+            "temperature": 21.7, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-10T16:14:47.561231", 
+            "temperature": 21.7, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T16:19:48.017018", 
+            "temperature": 21.8, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T16:24:48.400948", 
+            "temperature": 21.8, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T16:29:48.560037", 
+            "temperature": 21.9, 
+            "humidity": 24.7
+        }, 
+        {
+            "timestamp": "2018-02-10T16:34:48.918875", 
+            "temperature": 21.9, 
+            "humidity": 24.8
+        }, 
+        {
+            "timestamp": "2018-02-10T16:39:49.131778", 
+            "temperature": 21.9, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-10T16:44:49.397136", 
+            "temperature": 22.1, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-10T16:49:49.548245", 
+            "temperature": 22.0, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-10T16:54:49.830427", 
+            "temperature": 22.1, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-10T16:59:50.164958", 
+            "temperature": 22.2, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-10T17:23:34.152428", 
+            "temperature": 22.4, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-10T17:28:34.509759", 
+            "temperature": 22.4, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-10T17:33:34.841987", 
+            "temperature": 22.4, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-10T17:38:35.028915", 
+            "temperature": 22.5, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-10T17:43:35.239337", 
+            "temperature": 22.3, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-10T17:48:35.501368", 
+            "temperature": 22.3, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-10T17:53:35.858411", 
+            "temperature": 22.4, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-10T17:58:36.285929", 
+            "temperature": 22.5, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-10T18:03:36.477414", 
+            "temperature": 22.5, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-10T18:08:36.661227", 
+            "temperature": 22.5, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-10T18:13:36.898269", 
+            "temperature": 22.4, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-10T18:18:37.153543", 
+            "temperature": 22.4, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-10T18:23:37.511688", 
+            "temperature": 22.4, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-10T18:28:37.870189", 
+            "temperature": 22.4, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-10T18:33:38.063715", 
+            "temperature": 22.4, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-10T18:38:38.411554", 
+            "temperature": 22.5, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T19:02:20.674138", 
+            "temperature": 22.4, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-10T19:07:20.979211", 
+            "temperature": 22.4, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T19:12:21.288788", 
+            "temperature": 22.5, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T19:17:21.622390", 
+            "temperature": 22.6, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:22:21.756507", 
+            "temperature": 22.6, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:27:21.891660", 
+            "temperature": 22.5, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:32:22.050672", 
+            "temperature": 22.5, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:37:22.359757", 
+            "temperature": 22.5, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:42:22.693170", 
+            "temperature": 22.5, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-10T19:47:22.977333", 
+            "temperature": 21.9, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T19:52:23.160931", 
+            "temperature": 21.8, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T19:57:23.346008", 
+            "temperature": 21.7, 
+            "humidity": 26.1
+        }, 
+        {
+            "timestamp": "2018-02-10T20:02:23.679844", 
+            "temperature": 21.8, 
+            "humidity": 26.0
+        }, 
+        {
+            "timestamp": "2018-02-10T20:07:23.890187", 
+            "temperature": 21.9, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T20:12:24.127673", 
+            "temperature": 21.8, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-10T20:17:24.408625", 
+            "temperature": 21.8, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-10T20:41:10.479031", 
+            "temperature": 22.1, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-10T20:46:10.837784", 
+            "temperature": 22.3, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-10T20:51:11.194687", 
+            "temperature": 22.3, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-10T20:56:11.507369", 
+            "temperature": 22.0, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-10T21:01:11.715766", 
+            "temperature": 21.9, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-10T21:06:11.948045", 
+            "temperature": 21.7, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-10T21:11:12.232640", 
+            "temperature": 21.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-10T21:34:56.496834", 
+            "temperature": 21.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-10T21:39:56.857747", 
+            "temperature": 21.6, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-10T21:44:57.143356", 
+            "temperature": 21.6, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-10T21:49:57.400111", 
+            "temperature": 21.6, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-10T21:54:57.560379", 
+            "temperature": 21.6, 
+            "humidity": 24.8
+        }, 
+        {
+            "timestamp": "2018-02-10T21:59:57.719124", 
+            "temperature": 21.6, 
+            "humidity": 24.7
+        }, 
+        {
+            "timestamp": "2018-02-10T22:04:58.130591", 
+            "temperature": 21.5, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-10T22:09:58.363454", 
+            "temperature": 21.6, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-10T22:14:58.647363", 
+            "temperature": 21.6, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T22:19:58.908700", 
+            "temperature": 21.5, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T22:24:59.139767", 
+            "temperature": 21.4, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-10T22:29:59.297476", 
+            "temperature": 21.5, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T22:34:59.607300", 
+            "temperature": 21.5, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T22:39:59.916417", 
+            "temperature": 21.5, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-10T22:45:00.075293", 
+            "temperature": 21.5, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T22:50:00.208886", 
+            "temperature": 21.6, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-10T23:13:44.660260", 
+            "temperature": 21.8, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:18:44.869381", 
+            "temperature": 21.6, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:23:45.077172", 
+            "temperature": 21.5, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:28:45.611059", 
+            "temperature": 21.5, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:33:45.794349", 
+            "temperature": 21.4, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:38:46.028373", 
+            "temperature": 21.4, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:43:46.288587", 
+            "temperature": 21.4, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-10T23:48:46.721638", 
+            "temperature": 21.3, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T23:53:46.906788", 
+            "temperature": 21.3, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-10T23:58:47.316140", 
+            "temperature": 21.4, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T00:03:47.473089", 
+            "temperature": 21.4, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T00:08:47.686960", 
+            "temperature": 21.4, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T00:13:47.866086", 
+            "temperature": 21.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T00:18:48.126323", 
+            "temperature": 21.4, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T00:23:48.336521", 
+            "temperature": 21.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T00:28:48.518800", 
+            "temperature": 21.6, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T00:52:35.019559", 
+            "temperature": 21.5, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T00:57:35.354605", 
+            "temperature": 21.3, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T01:02:35.590060", 
+            "temperature": 21.3, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T01:07:35.896818", 
+            "temperature": 21.2, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T01:12:36.231523", 
+            "temperature": 21.1, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T01:17:36.516033", 
+            "temperature": 20.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T01:22:36.800566", 
+            "temperature": 20.7, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T01:27:37.183728", 
+            "temperature": 20.6, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T01:32:37.418216", 
+            "temperature": 20.5, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T01:37:37.725441", 
+            "temperature": 20.4, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T01:42:37.866183", 
+            "temperature": 20.3, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T01:47:38.220019", 
+            "temperature": 20.2, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T01:52:38.452392", 
+            "temperature": 19.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T01:57:38.736718", 
+            "temperature": 19.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T02:02:39.076978", 
+            "temperature": 19.8, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T02:07:39.382245", 
+            "temperature": 19.7, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T02:31:22.150397", 
+            "temperature": 19.1, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T02:36:22.485765", 
+            "temperature": 19.1, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T02:41:22.743891", 
+            "temperature": 19.0, 
+            "humidity": 23.5
+        }, 
+        {
+            "timestamp": "2018-02-11T02:46:22.902181", 
+            "temperature": 18.9, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T02:51:23.083202", 
+            "temperature": 18.8, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T02:56:23.277265", 
+            "temperature": 18.7, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T03:01:23.630628", 
+            "temperature": 18.6, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T03:25:06.904052", 
+            "temperature": 18.2, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T03:30:07.085864", 
+            "temperature": 18.1, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T03:35:07.247002", 
+            "temperature": 18.0, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T03:40:07.452538", 
+            "temperature": 17.9, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T03:45:07.811581", 
+            "temperature": 17.8, 
+            "humidity": 23.6
+        }, 
+        {
+            "timestamp": "2018-02-11T03:50:08.021735", 
+            "temperature": 17.7, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T03:55:08.330842", 
+            "temperature": 17.6, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T04:00:08.585843", 
+            "temperature": 17.6, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T04:05:08.820987", 
+            "temperature": 17.6, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T04:10:09.108985", 
+            "temperature": 17.3, 
+            "humidity": 23.7
+        }, 
+        {
+            "timestamp": "2018-02-11T04:15:09.337385", 
+            "temperature": 17.4, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T04:20:09.520291", 
+            "temperature": 17.3, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T04:25:09.876566", 
+            "temperature": 17.3, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T04:30:10.162158", 
+            "temperature": 17.4, 
+            "humidity": 23.8
+        }, 
+        {
+            "timestamp": "2018-02-11T04:35:10.346460", 
+            "temperature": 17.3, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-11T04:40:10.630245", 
+            "temperature": 17.4, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-11T05:03:57.296678", 
+            "temperature": 17.1, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-11T05:08:57.430919", 
+            "temperature": 17.2, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-11T05:13:57.590585", 
+            "temperature": 17.1, 
+            "humidity": 23.9
+        }, 
+        {
+            "timestamp": "2018-02-11T05:18:57.948838", 
+            "temperature": 17.1, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-11T05:23:58.082206", 
+            "temperature": 17.0, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-11T05:28:58.315980", 
+            "temperature": 16.9, 
+            "humidity": 24.0
+        }, 
+        {
+            "timestamp": "2018-02-11T05:33:58.523913", 
+            "temperature": 16.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T05:38:58.833793", 
+            "temperature": 16.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T05:43:58.992228", 
+            "temperature": 16.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T05:48:59.250896", 
+            "temperature": 16.7, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T05:53:59.485108", 
+            "temperature": 16.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T05:58:59.796708", 
+            "temperature": 16.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-11T06:04:00.106918", 
+            "temperature": 17.0, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T06:09:00.423176", 
+            "temperature": 17.0, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T06:14:00.598559", 
+            "temperature": 16.9, 
+            "humidity": 24.1
+        }, 
+        {
+            "timestamp": "2018-02-11T06:19:00.830026", 
+            "temperature": 16.9, 
+            "humidity": 24.2
+        }, 
+        {
+            "timestamp": "2018-02-11T06:42:43.171570", 
+            "temperature": 16.8, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-11T06:47:43.350673", 
+            "temperature": 16.7, 
+            "humidity": 24.3
+        }, 
+        {
+            "timestamp": "2018-02-11T06:52:43.607087", 
+            "temperature": 16.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-11T06:57:43.940660", 
+            "temperature": 16.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-11T07:02:44.276826", 
+            "temperature": 16.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-11T07:07:44.558291", 
+            "temperature": 16.7, 
+            "humidity": 24.4
+        }, 
+        {
+            "timestamp": "2018-02-11T07:12:44.843579", 
+            "temperature": 16.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-11T07:17:45.202945", 
+            "temperature": 16.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-11T07:22:45.434443", 
+            "temperature": 16.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-11T07:27:45.622419", 
+            "temperature": 16.7, 
+            "humidity": 24.5
+        }, 
+        {
+            "timestamp": "2018-02-11T07:32:45.753064", 
+            "temperature": 16.7, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-11T07:37:45.962315", 
+            "temperature": 16.7, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-11T07:42:46.270990", 
+            "temperature": 16.7, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-11T07:47:46.554557", 
+            "temperature": 16.7, 
+            "humidity": 24.6
+        }, 
+        {
+            "timestamp": "2018-02-11T07:52:46.788545", 
+            "temperature": 16.7, 
+            "humidity": 24.7
+        }, 
+        {
+            "timestamp": "2018-02-11T07:57:47.095794", 
+            "temperature": 16.7, 
+            "humidity": 24.7
+        }, 
+        {
+            "timestamp": "2018-02-11T08:21:31.316108", 
+            "temperature": 16.6, 
+            "humidity": 24.8
+        }, 
+        {
+            "timestamp": "2018-02-11T08:26:31.443584", 
+            "temperature": 16.6, 
+            "humidity": 24.8
+        }, 
+        {
+            "timestamp": "2018-02-11T08:31:31.575581", 
+            "temperature": 16.5, 
+            "humidity": 24.8
+        }, 
+        {
+            "timestamp": "2018-02-11T08:36:31.935726", 
+            "temperature": 16.5, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-11T08:41:32.218343", 
+            "temperature": 16.5, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-11T08:46:32.525283", 
+            "temperature": 16.5, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-11T08:51:32.761967", 
+            "temperature": 16.6, 
+            "humidity": 24.9
+        }, 
+        {
+            "timestamp": "2018-02-11T09:15:17.250028", 
+            "temperature": 16.7, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-11T09:20:17.408238", 
+            "temperature": 16.7, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-11T09:25:17.617495", 
+            "temperature": 16.6, 
+            "humidity": 25.0
+        }, 
+        {
+            "timestamp": "2018-02-11T09:30:17.823814", 
+            "temperature": 16.6, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-11T09:35:17.986358", 
+            "temperature": 16.5, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-11T09:40:18.218801", 
+            "temperature": 16.3, 
+            "humidity": 25.1
+        }, 
+        {
+            "timestamp": "2018-02-11T09:45:18.477844", 
+            "temperature": 16.5, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-11T09:50:18.733492", 
+            "temperature": 16.4, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-11T09:55:18.967848", 
+            "temperature": 16.4, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-11T10:00:19.301436", 
+            "temperature": 16.4, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:05:19.524609", 
+            "temperature": 16.4, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:10:19.676190", 
+            "temperature": 16.5, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:15:20.031561", 
+            "temperature": 16.5, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:20:20.411469", 
+            "temperature": 16.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:25:20.720290", 
+            "temperature": 16.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:30:20.954550", 
+            "temperature": 16.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T10:54:05.363768", 
+            "temperature": 16.6, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-11T10:59:05.521461", 
+            "temperature": 16.6, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-11T11:04:05.880543", 
+            "temperature": 16.6, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-11T11:09:06.187935", 
+            "temperature": 16.6, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-11T11:14:06.372386", 
+            "temperature": 16.8, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-11T11:19:06.631417", 
+            "temperature": 16.6, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-11T11:24:06.945520", 
+            "temperature": 16.6, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:29:07.226333", 
+            "temperature": 16.6, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:34:07.384088", 
+            "temperature": 16.6, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:39:07.592991", 
+            "temperature": 16.6, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:44:07.905743", 
+            "temperature": 16.6, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:49:08.210253", 
+            "temperature": 16.7, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:54:08.370729", 
+            "temperature": 16.7, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T11:59:08.528675", 
+            "temperature": 16.8, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-11T12:04:08.786187", 
+            "temperature": 16.8, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-11T12:09:09.145076", 
+            "temperature": 16.8, 
+            "humidity": 25.9
+        }, 
+        {
+            "timestamp": "2018-02-11T12:32:53.589445", 
+            "temperature": 17.4, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T12:37:53.862270", 
+            "temperature": 17.3, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-11T12:42:54.154549", 
+            "temperature": 17.2, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-11T12:47:54.414402", 
+            "temperature": 17.1, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T12:52:54.572364", 
+            "temperature": 17.0, 
+            "humidity": 25.8
+        }, 
+        {
+            "timestamp": "2018-02-11T12:57:54.881173", 
+            "temperature": 18.3, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T13:02:55.146033", 
+            "temperature": 17.7, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T13:07:55.475398", 
+            "temperature": 17.5, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T13:12:55.634007", 
+            "temperature": 17.7, 
+            "humidity": 25.7
+        }, 
+        {
+            "timestamp": "2018-02-11T13:17:55.919687", 
+            "temperature": 17.9, 
+            "humidity": 25.6
+        }, 
+        {
+            "timestamp": "2018-02-11T13:22:56.177923", 
+            "temperature": 18.2, 
+            "humidity": 25.4
+        }, 
+        {
+            "timestamp": "2018-02-11T13:27:56.538967", 
+            "temperature": 18.6, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T13:32:56.847270", 
+            "temperature": 18.2, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T13:37:57.029555", 
+            "temperature": 17.7, 
+            "humidity": 25.2
+        }, 
+        {
+            "timestamp": "2018-02-11T13:42:57.262824", 
+            "temperature": 17.5, 
+            "humidity": 25.3
+        }, 
+        {
+            "timestamp": "2018-02-11T13:47:57.572189", 
+            "temperature": 17.3, 
+            "humidity": 25.5
+        }, 
+        {
+            "timestamp": "2018-02-11T14:11:41.869017", 
+            "temperature": 16.9, 
+            "humidity": 26.9
+        }, 
+        {
+            "timestamp": "2018-02-11T14:16:42.177675", 
+            "temperature": 17.1, 
+            "humidity": 27.0
+        }, 
+        {
+            "timestamp": "2018-02-11T14:21:42.335504", 
+            "temperature": 17.0, 
+            "humidity": 27.1
+        }, 
+        {
+            "timestamp": "2018-02-11T14:26:42.570169", 
+            "temperature": 17.0, 
+            "humidity": 27.1
+        }, 
+        {
+            "timestamp": "2018-02-11T14:31:42.880674", 
+            "temperature": 17.0, 
+            "humidity": 27.2
+        }, 
+        {
+            "timestamp": "2018-02-11T14:36:43.063385", 
+            "temperature": 17.0, 
+            "humidity": 27.2
+        }, 
+        {
+            "timestamp": "2018-02-11T14:41:43.295096", 
+            "temperature": 17.1, 
+            "humidity": 27.3
+        }, 
+        {
+            "timestamp": "2018-02-11T15:05:30.005816", 
+            "temperature": 17.2, 
+            "humidity": 27.5
+        }, 
+        {
+            "timestamp": "2018-02-11T15:10:30.287222", 
+            "temperature": 17.2, 
+            "humidity": 27.6
+        }, 
+        {
+            "timestamp": "2018-02-11T15:15:30.545219", 
+            "temperature": 17.2, 
+            "humidity": 27.7
+        }, 
+        {
+            "timestamp": "2018-02-11T15:20:30.854677", 
+            "temperature": 17.1, 
+            "humidity": 27.7
+        }, 
+        {
+            "timestamp": "2018-02-11T15:25:31.011439", 
+            "temperature": 17.1, 
+            "humidity": 27.8
+        }, 
+        {
+            "timestamp": "2018-02-11T15:30:31.145403", 
+            "temperature": 17.1, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-11T15:35:31.406644", 
+            "temperature": 17.0, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-11T15:40:31.687549", 
+            "temperature": 17.0, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-11T15:45:31.846577", 
+            "temperature": 16.9, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-11T15:50:32.031321", 
+            "temperature": 16.9, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-11T15:55:32.292273", 
+            "temperature": 16.7, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-11T16:00:32.576280", 
+            "temperature": 16.9, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-11T16:05:32.933560", 
+            "temperature": 16.9, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-11T16:10:33.266813", 
+            "temperature": 16.9, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-11T16:15:33.699124", 
+            "temperature": 17.2, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-11T16:20:33.964610", 
+            "temperature": 17.9, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-11T16:44:15.973973", 
+            "temperature": 19.5, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-11T16:49:16.254213", 
+            "temperature": 19.6, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-11T16:54:16.587253", 
+            "temperature": 19.8, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-11T16:59:16.875174", 
+            "temperature": 20.0, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-11T17:04:17.558789", 
+            "temperature": 20.1, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-11T17:09:17.717504", 
+            "temperature": 20.2, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-11T17:14:17.927332", 
+            "temperature": 20.4, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-11T17:19:18.236965", 
+            "temperature": 20.6, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-11T17:24:18.369990", 
+            "temperature": 20.7, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-11T17:29:18.602783", 
+            "temperature": 20.9, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-11T17:34:18.761689", 
+            "temperature": 21.2, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-11T17:39:19.022849", 
+            "temperature": 21.1, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T17:44:19.177558", 
+            "temperature": 21.3, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T17:49:19.389491", 
+            "temperature": 21.4, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T17:54:19.646113", 
+            "temperature": 21.5, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-11T17:59:20.886822", 
+            "temperature": 21.8, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-11T18:23:04.050916", 
+            "temperature": 22.7, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-11T18:28:04.264857", 
+            "temperature": 22.4, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-11T18:33:04.520647", 
+            "temperature": 22.5, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-11T18:38:04.753042", 
+            "temperature": 22.7, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-11T18:43:04.987812", 
+            "temperature": 22.6, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-11T18:48:05.292898", 
+            "temperature": 22.4, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-11T18:53:05.456882", 
+            "temperature": 22.3, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-11T18:58:05.864648", 
+            "temperature": 22.3, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-11T19:03:06.175592", 
+            "temperature": 22.1, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-11T19:08:06.456962", 
+            "temperature": 22.0, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-11T19:13:06.616546", 
+            "temperature": 21.9, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-11T19:18:06.925255", 
+            "temperature": 21.9, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-11T19:23:07.238260", 
+            "temperature": 21.5, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-11T19:28:07.645738", 
+            "temperature": 21.7, 
+            "humidity": 29.6
+        }, 
+        {
+            "timestamp": "2018-02-11T19:33:08.002969", 
+            "temperature": 21.5, 
+            "humidity": 29.7
+        }, 
+        {
+            "timestamp": "2018-02-11T19:38:08.313186", 
+            "temperature": 21.5, 
+            "humidity": 29.7
+        }, 
+        {
+            "timestamp": "2018-02-11T20:01:52.225526", 
+            "temperature": 22.1, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-11T20:06:52.573328", 
+            "temperature": 22.1, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T20:11:52.854812", 
+            "temperature": 22.1, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T20:21:27.490859", 
+            "temperature": 23.0, 
+            "humidity": 34.5
+        }, 
+        {
+            "timestamp": "2018-02-11T20:26:27.695394", 
+            "temperature": 22.0, 
+            "humidity": 33.0
+        }, 
+        {
+            "timestamp": "2018-02-11T20:31:28.005635", 
+            "temperature": 21.8, 
+            "humidity": 32.0
+        }, 
+        {
+            "timestamp": "2018-02-11T20:36:28.287606", 
+            "temperature": 21.7, 
+            "humidity": 31.7
+        }, 
+        {
+            "timestamp": "2018-02-11T20:41:28.470532", 
+            "temperature": 21.7, 
+            "humidity": 31.1
+        }, 
+        {
+            "timestamp": "2018-02-11T20:46:28.781475", 
+            "temperature": 21.6, 
+            "humidity": 30.7
+        }, 
+        {
+            "timestamp": "2018-02-11T20:51:28.942519", 
+            "temperature": 21.7, 
+            "humidity": 30.8
+        }, 
+        {
+            "timestamp": "2018-02-11T20:56:29.195536", 
+            "temperature": 21.6, 
+            "humidity": 30.7
+        }, 
+        {
+            "timestamp": "2018-02-11T21:01:29.457570", 
+            "temperature": 21.7, 
+            "humidity": 30.6
+        }, 
+        {
+            "timestamp": "2018-02-11T21:06:29.765371", 
+            "temperature": 21.6, 
+            "humidity": 30.6
+        }, 
+        {
+            "timestamp": "2018-02-11T21:11:30.000493", 
+            "temperature": 21.7, 
+            "humidity": 30.6
+        }, 
+        {
+            "timestamp": "2018-02-11T21:16:30.182655", 
+            "temperature": 21.6, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:21:30.571544", 
+            "temperature": 21.6, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:26:30.851749", 
+            "temperature": 21.6, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:31:31.034005", 
+            "temperature": 21.6, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:36:31.194227", 
+            "temperature": 21.8, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:41:31.569791", 
+            "temperature": 21.4, 
+            "humidity": 30.5
+        }, 
+        {
+            "timestamp": "2018-02-11T21:46:31.886945", 
+            "temperature": 21.6, 
+            "humidity": 30.4
+        }, 
+        {
+            "timestamp": "2018-02-11T21:51:32.121729", 
+            "temperature": 21.6, 
+            "humidity": 30.4
+        }, 
+        {
+            "timestamp": "2018-02-11T21:56:32.455961", 
+            "temperature": 21.6, 
+            "humidity": 30.3
+        }, 
+        {
+            "timestamp": "2018-02-11T22:01:32.815007", 
+            "temperature": 21.6, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-11T22:25:14.817179", 
+            "temperature": 21.5, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-11T22:30:15.198355", 
+            "temperature": 21.7, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-11T22:35:15.434371", 
+            "temperature": 21.7, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-11T22:40:15.747485", 
+            "temperature": 21.6, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-11T22:45:15.929184", 
+            "temperature": 21.5, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-11T22:50:16.161256", 
+            "temperature": 21.4, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-11T22:55:16.419866", 
+            "temperature": 21.2, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-11T23:00:16.654882", 
+            "temperature": 21.1, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-11T23:05:17.014810", 
+            "temperature": 21.0, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-11T23:10:17.148336", 
+            "temperature": 20.9, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-11T23:15:17.459685", 
+            "temperature": 20.8, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-11T23:20:17.717185", 
+            "temperature": 20.6, 
+            "humidity": 29.7
+        }, 
+        {
+            "timestamp": "2018-02-11T23:25:18.024800", 
+            "temperature": 20.5, 
+            "humidity": 29.6
+        }, 
+        {
+            "timestamp": "2018-02-11T23:30:18.387223", 
+            "temperature": 20.4, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-11T23:35:18.743891", 
+            "temperature": 20.3, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-11T23:40:18.951816", 
+            "temperature": 20.1, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-12T00:04:05.761906", 
+            "temperature": 19.5, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T00:09:05.997793", 
+            "temperature": 19.5, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T00:14:06.253965", 
+            "temperature": 19.4, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T00:19:06.565817", 
+            "temperature": 19.3, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T00:24:06.824270", 
+            "temperature": 19.2, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-12T00:29:07.131225", 
+            "temperature": 19.2, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-12T00:34:07.489110", 
+            "temperature": 19.0, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-12T00:39:07.900200", 
+            "temperature": 19.0, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-12T00:44:08.158143", 
+            "temperature": 18.9, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-12T00:49:08.466016", 
+            "temperature": 18.8, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T00:54:08.646520", 
+            "temperature": 18.7, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T00:59:08.957524", 
+            "temperature": 18.6, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T01:04:09.191357", 
+            "temperature": 18.6, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T01:09:09.475601", 
+            "temperature": 18.5, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T01:14:09.709348", 
+            "temperature": 18.4, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T01:19:09.991406", 
+            "temperature": 18.3, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T01:42:55.469168", 
+            "temperature": 18.1, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T01:47:55.629297", 
+            "temperature": 17.9, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T01:52:55.760385", 
+            "temperature": 18.1, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T01:57:56.067907", 
+            "temperature": 17.8, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T02:02:56.224019", 
+            "temperature": 17.7, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T02:07:56.434946", 
+            "temperature": 17.6, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T02:12:56.722590", 
+            "temperature": 17.5, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T02:17:57.102567", 
+            "temperature": 17.5, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T02:22:57.360901", 
+            "temperature": 17.4, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T02:27:57.519962", 
+            "temperature": 17.4, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T02:32:57.678666", 
+            "temperature": 17.3, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T02:37:57.913548", 
+            "temperature": 17.3, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T02:42:58.222094", 
+            "temperature": 17.2, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T02:47:58.581366", 
+            "temperature": 17.1, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T02:52:58.938535", 
+            "temperature": 17.1, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T02:57:59.298346", 
+            "temperature": 17.0, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:21:42.114015", 
+            "temperature": 16.9, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:26:42.422274", 
+            "temperature": 16.8, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:31:42.655548", 
+            "temperature": 16.8, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:36:42.889297", 
+            "temperature": 16.7, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:41:43.175682", 
+            "temperature": 16.7, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T03:46:43.531357", 
+            "temperature": 16.6, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T03:51:43.689385", 
+            "temperature": 16.4, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:15:28.034902", 
+            "temperature": 16.6, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:20:28.246646", 
+            "temperature": 16.6, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:25:28.427650", 
+            "temperature": 16.5, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:30:28.561165", 
+            "temperature": 16.5, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:35:28.795356", 
+            "temperature": 16.5, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:40:29.156163", 
+            "temperature": 16.4, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:45:29.462898", 
+            "temperature": 16.4, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T04:50:29.770965", 
+            "temperature": 16.4, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T04:55:30.105810", 
+            "temperature": 16.3, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T05:00:30.437737", 
+            "temperature": 16.1, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T05:05:30.698959", 
+            "temperature": 16.3, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T05:10:30.905848", 
+            "temperature": 16.2, 
+            "humidity": 27.9
+        }, 
+        {
+            "timestamp": "2018-02-12T05:15:31.213643", 
+            "temperature": 16.2, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T05:20:31.423341", 
+            "temperature": 16.2, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T05:25:31.707647", 
+            "temperature": 16.2, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T05:30:31.965064", 
+            "temperature": 16.2, 
+            "humidity": 28.0
+        }, 
+        {
+            "timestamp": "2018-02-12T05:54:16.171819", 
+            "temperature": 16.4, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T05:59:16.480999", 
+            "temperature": 16.3, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:04:16.715401", 
+            "temperature": 16.3, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:09:17.025774", 
+            "temperature": 16.3, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:14:17.310684", 
+            "temperature": 16.2, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:19:17.568638", 
+            "temperature": 16.2, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:24:17.877330", 
+            "temperature": 16.2, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:29:18.361037", 
+            "temperature": 16.2, 
+            "humidity": 28.1
+        }, 
+        {
+            "timestamp": "2018-02-12T06:34:18.647604", 
+            "temperature": 16.1, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T06:39:18.954751", 
+            "temperature": 16.1, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T06:44:19.186522", 
+            "temperature": 16.1, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T06:49:19.497767", 
+            "temperature": 16.1, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T06:54:19.906966", 
+            "temperature": 16.1, 
+            "humidity": 28.2
+        }, 
+        {
+            "timestamp": "2018-02-12T06:59:20.193282", 
+            "temperature": 16.1, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:04:20.422421", 
+            "temperature": 16.1, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:09:20.780200", 
+            "temperature": 16.1, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:33:04.330821", 
+            "temperature": 16.1, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:38:04.585096", 
+            "temperature": 16.1, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:43:04.721583", 
+            "temperature": 16.0, 
+            "humidity": 28.3
+        }, 
+        {
+            "timestamp": "2018-02-12T07:48:04.881556", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T07:53:05.136115", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T07:58:05.322221", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:03:05.481647", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:08:05.765498", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:13:05.973902", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:18:06.283539", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:23:06.442911", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:28:06.699971", 
+            "temperature": 15.8, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:33:06.885868", 
+            "temperature": 16.1, 
+            "humidity": 28.4
+        }, 
+        {
+            "timestamp": "2018-02-12T08:38:07.197395", 
+            "temperature": 16.1, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-12T08:43:07.553171", 
+            "temperature": 16.0, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-12T08:48:07.787580", 
+            "temperature": 16.0, 
+            "humidity": 28.5
+        }, 
+        {
+            "timestamp": "2018-02-12T09:11:52.409433", 
+            "temperature": 16.0, 
+            "humidity": 28.6
+        }, 
+        {
+            "timestamp": "2018-02-12T09:16:52.568174", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T09:21:52.825153", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T09:26:53.185080", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T09:31:53.544552", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T09:36:53.679143", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T09:41:53.862751", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:05:36.745650", 
+            "temperature": 16.1, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T10:10:36.955219", 
+            "temperature": 16.0, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T10:15:37.215714", 
+            "temperature": 16.1, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T10:20:37.399546", 
+            "temperature": 16.0, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T10:25:37.708825", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:30:37.990955", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:35:38.199593", 
+            "temperature": 15.8, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:40:38.407067", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:45:38.564251", 
+            "temperature": 16.0, 
+            "humidity": 28.7
+        }, 
+        {
+            "timestamp": "2018-02-12T10:50:38.826149", 
+            "temperature": 16.3, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T10:55:39.057969", 
+            "temperature": 15.8, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:00:39.290235", 
+            "temperature": 16.1, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:05:39.598835", 
+            "temperature": 16.1, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:10:39.858649", 
+            "temperature": 16.0, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:15:40.168942", 
+            "temperature": 16.0, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:20:40.325067", 
+            "temperature": 16.0, 
+            "humidity": 28.8
+        }, 
+        {
+            "timestamp": "2018-02-12T11:44:26.636643", 
+            "temperature": 16.1, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T11:49:26.944914", 
+            "temperature": 16.1, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T11:54:27.179612", 
+            "temperature": 16.2, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T11:59:27.436720", 
+            "temperature": 16.1, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T12:04:27.646329", 
+            "temperature": 16.1, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T12:09:27.784154", 
+            "temperature": 16.2, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T12:14:28.014745", 
+            "temperature": 16.2, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T12:19:28.322248", 
+            "temperature": 16.2, 
+            "humidity": 28.9
+        }, 
+        {
+            "timestamp": "2018-02-12T12:24:28.485756", 
+            "temperature": 16.1, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-12T12:29:28.841334", 
+            "temperature": 16.2, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-12T12:34:29.149116", 
+            "temperature": 16.2, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-12T12:39:29.534470", 
+            "temperature": 16.2, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-12T12:44:29.694352", 
+            "temperature": 16.2, 
+            "humidity": 29.0
+        }, 
+        {
+            "timestamp": "2018-02-12T12:49:29.875835", 
+            "temperature": 16.2, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-12T12:54:30.035611", 
+            "temperature": 16.1, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-12T12:59:30.268829", 
+            "temperature": 16.2, 
+            "humidity": 29.1
+        }, 
+        {
+            "timestamp": "2018-02-12T13:23:14.751351", 
+            "temperature": 16.3, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-12T13:28:15.088958", 
+            "temperature": 16.2, 
+            "humidity": 29.2
+        }, 
+        {
+            "timestamp": "2018-02-12T13:33:15.241930", 
+            "temperature": 16.2, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-12T13:38:15.530690", 
+            "temperature": 16.3, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-12T13:43:15.858833", 
+            "temperature": 16.3, 
+            "humidity": 29.3
+        }, 
+        {
+            "timestamp": "2018-02-12T13:48:16.015001", 
+            "temperature": 16.3, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-12T13:53:16.275965", 
+            "temperature": 16.3, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-12T13:58:16.559408", 
+            "temperature": 16.3, 
+            "humidity": 29.4
+        }, 
+        {
+            "timestamp": "2018-02-12T14:03:16.719756", 
+            "temperature": 16.3, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:08:16.852846", 
+            "temperature": 16.4, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:13:17.112571", 
+            "temperature": 16.3, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:18:17.420610", 
+            "temperature": 16.3, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:23:17.731328", 
+            "temperature": 16.3, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:28:17.963046", 
+            "temperature": 16.3, 
+            "humidity": 29.5
+        }, 
+        {
+            "timestamp": "2018-02-12T14:33:18.222366", 
+            "temperature": 16.4, 
+            "humidity": 29.6
+        }, 
+        {
+            "timestamp": "2018-02-12T14:38:18.582743", 
+            "temperature": 16.3, 
+            "humidity": 29.6
+        }, 
+        {
+            "timestamp": "2018-02-12T15:02:02.949845", 
+            "temperature": 16.4, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:07:03.159206", 
+            "temperature": 16.3, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:12:03.422801", 
+            "temperature": 16.4, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:17:03.574953", 
+            "temperature": 16.3, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:22:03.734372", 
+            "temperature": 16.3, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:27:04.040161", 
+            "temperature": 16.3, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:32:04.376798", 
+            "temperature": 16.2, 
+            "humidity": 29.8
+        }, 
+        {
+            "timestamp": "2018-02-12T15:37:04.684624", 
+            "temperature": 16.2, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-12T15:42:04.995090", 
+            "temperature": 16.3, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-12T15:47:05.353934", 
+            "temperature": 16.2, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-12T15:52:05.511391", 
+            "temperature": 16.2, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-12T15:57:05.720082", 
+            "temperature": 16.2, 
+            "humidity": 29.9
+        }, 
+        {
+            "timestamp": "2018-02-12T16:02:06.004031", 
+            "temperature": 16.2, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-12T16:07:06.360614", 
+            "temperature": 16.2, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-12T16:12:06.523186", 
+            "temperature": 16.2, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-12T16:17:06.879130", 
+            "temperature": 16.4, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-12T16:40:51.094639", 
+            "temperature": 16.1, 
+            "humidity": 30.0
+        }, 
+        {
+            "timestamp": "2018-02-12T16:45:51.350376", 
+            "temperature": 16.1, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-12T16:50:51.709335", 
+            "temperature": 16.1, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-12T16:55:51.843145", 
+            "temperature": 16.1, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-12T17:00:52.129076", 
+            "temperature": 16.0, 
+            "humidity": 30.1
+        }, 
+        {
+            "timestamp": "2018-02-12T17:05:52.340195", 
+            "temperature": 16.0, 
+            "humidity": 30.2
+        }, 
+        {
+            "timestamp": "2018-02-12T17:10:52.904603", 
+            "temperature": 16.0, 
+            "humidity": 30.2
+        }
+    ]
+}

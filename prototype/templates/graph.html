@@ -1,0 +1,78 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/3.8.5/echarts.min.js"></script>
+  </head>
+  <body>
+    <div id="main" style="width: 100%; height: 100%"></div>
+    <script>
+      var timeData = {{ timestamps|safe }};
+
+      timeData = timeData.map(function (str) {
+        var date = new Date(str);
+        return date.toDateString() + ' ' + date.toLocaleTimeString();
+      });
+
+      option = {
+          title: {
+              text: 'attic',
+              // subtext: '',
+              x: 'center'
+          },
+          xAxis: {
+              type : 'category',
+              axisLine: {onZero: true},
+              data: timeData
+          },
+          yAxis: {
+              type: 'value'
+          },
+          tooltip: {
+              trigger: 'axis',
+              axisPointer: {
+                  animation: false
+              }
+          },
+          legend: {
+              data:['temperature °C', 'humidity %'],
+              x: 'left',
+          },
+          toolbox: {
+              feature: {
+                  restore: {},
+                  saveAsImage: {}
+              }
+          },
+          dataZoom: [
+              {
+                  show: true,
+                  realtime: true,
+                  start: 0,
+                  end: 100,
+              },
+              {
+                  type: 'inside',
+                  realtime: true,
+                  start: 0,
+                  end: 100,
+              },
+          ],
+          series: [
+              {
+                  name: 'temperature °C',
+                  data: {{ temperatures|safe }},
+                  type: 'line',
+              },
+              {
+                  name: 'humidity %',
+                  data: {{ humidities|safe }},
+                  type: 'line',
+              },
+          ]
+      };
+
+      var chart = echarts.init(document.getElementById('main'));
+      chart.setOption(option);
+    </script>
+  </body>
+</html>
